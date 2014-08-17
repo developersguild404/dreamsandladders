@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#mysection{
+		width:95%;
+		padding:10px;
+		margin:1% auto;
+		margin-top:15%;
+		
+		
+	}
+body{
+	background: url(../../images/login_bg_tab.png) no-repeat center center fixed; 
+	}
